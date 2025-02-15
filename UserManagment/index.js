@@ -15,7 +15,7 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use(cors({
     origin: "*", // Use 127.0.0.1 instead of localhost
-    methods: ["GET", "POST"], // Allowed methods
+    methods: ["GET", "POST","PUT","DELETE"], // Allowed methods
     allowedHeaders: ["Content-Type", "Authorization"], // Allowed headers
     credentials: true,
 }));
