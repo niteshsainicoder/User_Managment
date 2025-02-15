@@ -27,25 +27,25 @@ A simple RESTful API for managing users with authentication and role-based acces
 
 ## 🛠️ Setup & Run
 
-1️⃣ **Clone the Repository**
+ 
+ 1️. Clone the Repository
+    
+    ```
+    git clone https://github.com/niteshsainicoder/UserManagment.git
+    cd UserManagment
+    ```
 
-```bash
-git clone https://github.com/niteshsainicoder/UserManagment.git
-
-cd UserManagment
-```
-
-1. Move to Directory
+2. Move to Directory
    ```
    cd UserManagment
    ```
-2. Install Dependencies
+3. Install Dependencies
    ```
    npm i
    ```
-3. Update Env file (According to your prefrence)
+4. Update Env file (According to your prefrence)
 
-4. Run local Server
+5. Run local Server
    ```
    npm run test
    ```
