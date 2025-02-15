@@ -49,3 +49,8 @@ A simple RESTful API for managing users with authentication and role-based acces
    ```
    npm run test
    ```
+6. API Testing
+
+ - Import the Postman Collection
+ -[User Managment.postman_collection.json](https://github.com/user-attachments/files/18811790/User.Managment.postman_collection.json)
+ - Use Postman to test the API endpoints
